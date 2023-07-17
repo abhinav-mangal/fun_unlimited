@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "901077516403",
+    "project_id": "lafa-team",
+    "storage_bucket": "lafa-team.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901077516403:android:ad252ef3ade771e173aa06",
+        "android_client_info": {
+          "package_name": "com.example.fun_unlimited"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901077516403-j2a71jtj44j7glmludijs6gcf06f615q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fun_unlimited",
+            "certificate_hash": "f52fc0a216382cf967f7abec24bde67ad8bdfd3e"
+          }
+        },
+        {
+          "client_id": "901077516403-e1b8rq8oel144fgndsf32c3fe772ughe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaQamMjVRjX15pY7LSOVDIDl79OkIJetQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901077516403-e1b8rq8oel144fgndsf32c3fe772ughe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
